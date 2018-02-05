@@ -23,3 +23,6 @@ planned fixes and updates
 6. Handle all errors.
 7. Calibrate the gauges.
 8. Fix bug that may show stale data when rotating the device after viewing a favourite.
+
+
+![alt text](https://github.com/pongopom/Aerem/blob/master/Screenshot_1517741595.png)
